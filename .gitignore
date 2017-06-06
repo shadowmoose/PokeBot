@@ -1,0 +1,6 @@
+*.gb
+*.gbc
+stream/*
+.dropbox
+Icon*
+*.ini
